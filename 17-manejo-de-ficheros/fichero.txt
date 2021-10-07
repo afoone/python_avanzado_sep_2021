@@ -1,0 +1,5 @@
+# si volvemos a abrir para escritura, se borra todo
+fichero = open("fichero.txt", "w") # fichero.txt es la ruta w es modo de escritura
+fichero.write("written")
+fichero.close()updating things
+updating things
